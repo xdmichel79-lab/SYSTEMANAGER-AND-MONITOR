@@ -1,0 +1,1 @@
+El workflow instala Gradle 9.6.0 directamente. Para generar Gradle Wrapper localmente, ejecuta `gradle wrapper --gradle-version 9.6.0` desde la raíz del proyecto. Esto añadirá gradlew, gradlew.bat y gradle-wrapper.jar.
